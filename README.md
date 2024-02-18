@@ -5,3 +5,11 @@ Belajar Dasar Git dengan GitHub (progres 38%)
 * dasar git
 * study kasus penagalam belajar
 * membuat repository baru
+
+**18 Febuari 2024**<br>
+Belajar Dasar Git dengan GitHub (progres 58%)
+* Belajar tentang git dan github
+* dasar git
+* study kasus penagalam belajar
+* membuat repository baru
+* belajar tentang Git Branches
